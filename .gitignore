@@ -10,9 +10,6 @@
 !/agent-foundation/.env.example
 !/agent-foundation/AGENTS.md
 !/agent-foundation/CODEX_START_HERE.md
-!/agent-foundation/README.md
-!/agent-foundation/GLOSSARY.md
-!/agent-foundation/VALIDATION.md
 !/agent-foundation/pyproject.toml
 !/agent-foundation/requirements.txt
 !/agent-foundation/requirements-catalog.lock
@@ -23,14 +20,11 @@
 !/agent-foundation/docs/
 !/agent-foundation/.agents/
 !/agent-foundation/history/
-!/agent-foundation/features/
 
 /agent-foundation/.agents/*
 !/agent-foundation/.agents/skills/
 /agent-foundation/history/*
 !/agent-foundation/history/README.md
-/agent-foundation/features/*
-!/agent-foundation/features/README.md
 
 # Business data requires a separate review; retain the synthetic handbook.
 /agent-foundation/agents/*/data/*

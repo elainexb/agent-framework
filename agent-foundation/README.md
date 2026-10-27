@@ -1,3 +1,0 @@
-# 阅读入口
-
-此路径保留供既有读者或消费者定位；正文唯一维护于：[CODEX_START_HERE](CODEX_START_HERE.md)。
