@@ -1,0 +1,1010 @@
+[
+  {
+    "old_path": ".agents/skills/build-agent/SKILL.md",
+    "old_sha256": "52bd41629c63f3783668e1dc99d5cd45116b4681c78cba3bc0057f07bee2e169",
+    "archive": "history/legacy/.agents/skills/build-agent/source.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/开发方法.md",
+      "docs/current/使用与排错.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": ".agents/skills/evaluate-agent/SKILL.md",
+    "old_sha256": "5e289ed8778fdb6de3ea57612cdd444e3aeada602e725abf468538c291e4a2a3",
+    "archive": "history/legacy/.agents/skills/evaluate-agent/source.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/验证与安全.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": ".agents/skills/harness-review/SKILL.md",
+    "old_sha256": "93f22236253ce3c1711d39e382febe7ecf84019704c4e2f4224070154a84b9d8",
+    "archive": "history/legacy/.agents/skills/harness-review/source.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/开发方法.md",
+      "docs/current/设计决定.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": ".agents/skills/verify-agent-catalog/SKILL.md",
+    "old_sha256": "c1e834b7404af7fb967e09600327a47b4f2f97827e33666a2137d8e5717557ee",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": ".agents/skills/verify-agent-catalog/features/README.md",
+    "old_sha256": "a99395defc3f0a979b679addd370113037bdfddeae4b14ae42d0918ddd45b747",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": ".agents/skills/verify-agent-catalog/features/catalog.md",
+    "old_sha256": "496e52be451ad99bb05045fe9c982e355adbc548628e9d3dd5752d738c5be885",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/experiments/lc-lg-mlflow/REVIEW.md",
+    "old_sha256": "c76142eadcb2c88d54d834f8b2446f6af81bec504f730a1152a4424adaaff8ad",
+    "archive": "history/legacy/.scratch/agent-workbench/experiments/lc-lg-mlflow/REVIEW.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/experiments/lc-lg-mlflow/STEP_SCORE_REVIEW.md",
+    "old_sha256": "2b482e8f9c66c924f389ec1a21aa1ff561f948a436b278a76ec4f23607ecdfdf",
+    "archive": "history/legacy/.scratch/agent-workbench/experiments/lc-lg-mlflow/STEP_SCORE_REVIEW.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/experiments/single-model-loop/STATUS.md",
+    "old_sha256": "b906c918c5c90f0cd06f354518fb018391638848acad971a6055df1361b7fd17",
+    "archive": "history/legacy/.scratch/agent-workbench/experiments/single-model-loop/STATUS.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/当前工作.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/experiments/whole-route-wiring/PLAN.md",
+    "old_sha256": "6c1a96964031b78a33b79f9c7ec284bdbd5105262224d827e58ae3997173bd2f",
+    "archive": "history/legacy/.scratch/agent-workbench/experiments/whole-route-wiring/PLAN.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/experiments/whole-route-wiring/STOPPED.md",
+    "old_sha256": "beb3167c769ab5e0e8dea8328a0ed2eefaa4328e96992e99c9ec8cd4768110f9",
+    "archive": "history/legacy/.scratch/agent-workbench/experiments/whole-route-wiring/STOPPED.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/当前工作.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/01-single-page-coverage.md",
+    "old_sha256": "b44ed302198b430b7a063d6cd22f5d9b41a89cc9d22c92a7aee456b7ed2c2039",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/01-single-page-coverage.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/02-eval-feedback-regression.md",
+    "old_sha256": "7a1c6de91c0383f8597157af7808a614c41bb08e1365436ba02b951970893635",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/02-eval-feedback-regression.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/03-local-fit.md",
+    "old_sha256": "26f9095c24f2d9605877049d1fe6f9f128b131441da7e03f9dbb9a327c7502bb",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/03-local-fit.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/04-research-tradeoffs.md",
+    "old_sha256": "c032f0433c49a31819332d278eb751148a75201c46e6c4d8f3245dc7ffec22d0",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/04-research-tradeoffs.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/05-integrated-platform-alternatives.md",
+    "old_sha256": "6cde86050b8c05deb50509adc53f187cd9f7367b5d8302587520c464b34eb8cb",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/05-integrated-platform-alternatives.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/06-runtime-capability-evidence.md",
+    "old_sha256": "8d14a3cfbe2b35bcc43ee6e21297a8f2a0b2e8ee8e3e52de9630c837f7a2854f",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/06-runtime-capability-evidence.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/07-complex-validation-boundary.md",
+    "old_sha256": "f1d96a16363491683466f659bebc5c69c7afaf362c40342dab823aee1e9e1435",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/07-complex-validation-boundary.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/08-generic-framework-routes.md",
+    "old_sha256": "c4a47be135fa941121d31f1af9456b955fab983ba852fbad1fb5620775b50114",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/08-generic-framework-routes.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/09-reference-stack-preflight.md",
+    "old_sha256": "3622427e906b979c71ae9bedd88c5ecfadcc22ffbbed7a60ba345112759a991f",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/09-reference-stack-preflight.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/10-step-score-save-route.md",
+    "old_sha256": "d7f4723c942d921b0e714a641e7724a79b9fe037981044d370e4c88b9dc2c8f2",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/10-step-score-save-route.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/11-step-score-fix-verification.md",
+    "old_sha256": "a842c60462972fdec44fa008485fb0debb0ac25f16c031fe408d44ee966084ee",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/11-step-score-fix-verification.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/12-single-model-preflight.md",
+    "old_sha256": "f71ea925639ee72e2478a004c1b9411a7cbdd54dd9b9d3cafcc32ab12f0b43e0",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/12-single-model-preflight.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/13-single-model-loop.md",
+    "old_sha256": "783fe4113649a273e5011a6ea094a98f5f558a46ffc7f12e6a36d975e207b05e",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/13-single-model-loop.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/14-whole-route-wiring.md",
+    "old_sha256": "4fe2d8ea11b8c2e63f2199071a36617efacfc4159a6d20251bfb7be75b93bfc6",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/14-whole-route-wiring.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/15-build-workbench-implementation-spec.md",
+    "old_sha256": "34d348e8357644c6d50de0c22b3ac32a66b8f427ab5feea1a7c1c0ca28ba6cf3",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/15-build-workbench-implementation-spec.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/16-codex-build-catalog.md",
+    "old_sha256": "690d337258610297ef54d7c4d37e75e97a694c00c4ab525dd54313a0d7b06902",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/16-codex-build-catalog.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/issues/17-codex-generation-standardization-spec.md",
+    "old_sha256": "63dbea703d685b08403a3bfa88ca8ba93be2adbc53e7b41d8fa72d9da67b3d92",
+    "archive": "history/legacy/.scratch/agent-workbench/issues/17-codex-generation-standardization-spec.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/map.md",
+    "old_sha256": "e513f8bd16504b5a7ecc0fe7b4baef8868223fbe8f995269a5d8c4a8fe4ab49d",
+    "archive": "history/legacy/.scratch/agent-workbench/map.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/当前工作.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/agent-completeness-candidates-20261025.md",
+    "old_sha256": "84ca3ebf368c51daa1ff392590085beb4e45c3b1c432d25ed2bd659cbf728926",
+    "archive": "history/legacy/.scratch/agent-workbench/research/agent-completeness-candidates-20261025.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/agent-map-design-capabilities-20261025.md",
+    "old_sha256": "1bd223f7216f7015076d4e3e3d8b9b1924dbd104e6f73d0c22f9fcc0906371c4",
+    "archive": "history/legacy/.scratch/agent-workbench/research/agent-map-design-capabilities-20261025.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/agent-map-evaluation-delivery-20261025.md",
+    "old_sha256": "65c1c64cb2b4eef8e07540f73ed05ecc159996c6ec489c026d51da0d39892815",
+    "archive": "history/legacy/.scratch/agent-workbench/research/agent-map-evaluation-delivery-20261025.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/agent-map-runtime-boundaries-20261025.md",
+    "old_sha256": "834de03005bffd880e2c0bc3f1e6a1ac25e4d90d8de96028aed8e3b75e3cb3fc",
+    "archive": "history/legacy/.scratch/agent-workbench/research/agent-map-runtime-boundaries-20261025.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/agentscope-studio-alternative.md",
+    "old_sha256": "1930c9fb5bc5fb289b8e9091eef82f01a29d1335c63539b26402578138128153",
+    "archive": "history/legacy/.scratch/agent-workbench/research/agentscope-studio-alternative.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/builder-surface-audit-20261026.md",
+    "old_sha256": "a335d0623d0708d4e3582c241e38b84d89928f47caa82df59ff6c00e6f5eef77",
+    "archive": "history/legacy/.scratch/agent-workbench/research/builder-surface-audit-20261026.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/eval-feedback-regression.md",
+    "old_sha256": "e97ee32801da215e5ddd297fc1fe07fc125f683486780a23ec7dc83e7ab2f27a",
+    "archive": "history/legacy/.scratch/agent-workbench/research/eval-feedback-regression.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/flowise-alternative.md",
+    "old_sha256": "b4d3a0933575af0cf5d78698a5e26c08b245abb9964911e100e9621a5691af57",
+    "archive": "history/legacy/.scratch/agent-workbench/research/flowise-alternative.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/generic-observe-eval.md",
+    "old_sha256": "28e5178ba96a997341af81f0cc6643a0d86b1c8d07511ad9fccb4a2e7be0daaa",
+    "archive": "history/legacy/.scratch/agent-workbench/research/generic-observe-eval.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/generic-route-comparison.md",
+    "old_sha256": "3a2a4376834616669b846d0507827ce91b1388bdfe11242abb84bde6af5e47fb",
+    "archive": "history/legacy/.scratch/agent-workbench/research/generic-route-comparison.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/generic-runtime-routes.md",
+    "old_sha256": "198e7e29af87234341e9968ff58b3bc1fc8eb17b2351e31042670585f9cb819f",
+    "archive": "history/legacy/.scratch/agent-workbench/research/generic-runtime-routes.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/generic-workbench-surfaces.md",
+    "old_sha256": "51773bed82f68650970792ba7568b1433fa71aeaaecf1afbe16ce059da664316",
+    "archive": "history/legacy/.scratch/agent-workbench/research/generic-workbench-surfaces.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/librechat-alternative.md",
+    "old_sha256": "1ac627b30b52b36107913f80e29244974216269e16aaa14460a73de68a4bf9c2",
+    "archive": "history/legacy/.scratch/agent-workbench/research/librechat-alternative.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/mainstream-screen.md",
+    "old_sha256": "12e034009f6c9eb7b521c7ebbd76e34ba6caf29d0e31c675e7cf873e08325fae",
+    "archive": "history/legacy/.scratch/agent-workbench/research/mainstream-screen.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/matt-test-detail-audit-20261026.md",
+    "old_sha256": "488383dbd14030033f34c68485d233296b4ec92970327bc96aa0aacd0353f918",
+    "archive": "history/legacy/.scratch/agent-workbench/research/matt-test-detail-audit-20261026.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/native-commands-feasibility.md",
+    "old_sha256": "08184be1bf49ea900c814d99348be421a1cfb6102bb16c4054d7c92c8c56e7d1",
+    "archive": "history/legacy/.scratch/agent-workbench/research/native-commands-feasibility.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/ollama-download-network-block.md",
+    "old_sha256": "ee8a23e44b52a725fd2be32063e7a5648e8e76f7f791dd1d4e2f21f73db17705",
+    "archive": "history/legacy/.scratch/agent-workbench/research/ollama-download-network-block.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/reference-stack-upstream-preflight.md",
+    "old_sha256": "f4dfdd7884bb898d05dda23066938d3babdadd32dbf3fc3cf371eb6910161b3c",
+    "archive": "history/legacy/.scratch/agent-workbench/research/reference-stack-upstream-preflight.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/runtime-capability-evidence.md",
+    "old_sha256": "aa02ea79cced0e7d45ad9723f277bef45630f6441bbedfaee005dc71cfb73ef2",
+    "archive": "history/legacy/.scratch/agent-workbench/research/runtime-capability-evidence.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/runtime-evidence-audit-20261026.md",
+    "old_sha256": "df8b9dc6fd5fda06472b732ee1a47794c5bddd3b6a366a0ff228b2a64d4f1d0c",
+    "archive": "history/legacy/.scratch/agent-workbench/research/runtime-evidence-audit-20261026.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/runtime-upstream-evidence.md",
+    "old_sha256": "8fec1bfb630d38d115e978746c26fa7f63e02c288a3f3755f0d93d738240243c",
+    "archive": "history/legacy/.scratch/agent-workbench/research/runtime-upstream-evidence.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/single-model-official-preflight.md",
+    "old_sha256": "16444f6ed74c79716758f86559becfe119847b6cb89a9124c49b3aac63d19f24",
+    "archive": "history/legacy/.scratch/agent-workbench/research/single-model-official-preflight.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/single-page-coverage.md",
+    "old_sha256": "ecd1be54d6f8bf3441e4d80ba276e515dc83be4be01bdb08c1ee350852b974c1",
+    "archive": "history/legacy/.scratch/agent-workbench/research/single-page-coverage.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/skill-artifact-runtime-seam.md",
+    "old_sha256": "040687908a350af180b54fa1f0199d8b2c602a84d3a46ed5272301f77c03a077",
+    "archive": "history/legacy/.scratch/agent-workbench/research/skill-artifact-runtime-seam.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/step-score-public-api.md",
+    "old_sha256": "23e09d04e041561e8ea75163e33aae558e2b1268d5e3dd44eb65271433a0d878",
+    "archive": "history/legacy/.scratch/agent-workbench/research/step-score-public-api.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": ".scratch/agent-workbench/research/ui-build-seam-20261025.md",
+    "old_sha256": "36102ba25ab301de3fe71c8d2b9edb7139d702e501e6667c675db0627e20aeae",
+    "archive": "history/legacy/.scratch/agent-workbench/research/ui-build-seam-20261025.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "AGENTS.md",
+    "old_sha256": "91803d80081777c1fd9e9b2639a2f15913345084246fd3a1a75a8f5fc34e47b5",
+    "archive": "history/legacy/AGENTS.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "CODEX_START_HERE.md",
+    "old_sha256": "268cfadc2858b4b58985e196d50846d24c21ff8ee26ca79d9a26193ad2e74b7a",
+    "archive": "history/legacy/CODEX_START_HERE.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "CODEX_START_HERE.md",
+      "docs/current/当前工作.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "GLOSSARY.md",
+    "old_sha256": "daf2606180558f69cfd830f4a8407e18ad37440d32f06ee764e80afa90668674",
+    "archive": "history/legacy/GLOSSARY.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/术语.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "README.md",
+    "old_sha256": "f5b4b8c95f119b3fe91f466ba9159cb08441c32008e9b793dcc7ab9684872b5c",
+    "archive": "history/legacy/README.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/架构与修改.md",
+      "docs/current/使用与排错.md",
+      "docs/current/验证与安全.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "VALIDATION.md",
+    "old_sha256": "1f6030a62aa1ce934de4022729e4c976e1cb4d12357fd0fe52f4ac8f643f55ae",
+    "archive": "history/legacy/VALIDATION.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "agents/_template/data/README.md",
+    "old_sha256": "313f0e47c54c7b9da33810173610172d580350e0b052380d41f55a04ca786f7d",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "agents/_template/instructions.md",
+    "old_sha256": "68f5a17267e1bc73abf0dfcad412220bbfd34a58587abadd7bd6528b86bc62a7",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "agents/_template/knowledge/README.md",
+    "old_sha256": "1c793cb0aa57e1a79f09003e9521c924a68a7621e98c3d874276bc02c87057f8",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "agents/_template/skills/README.md",
+    "old_sha256": "3e15d43e1bfa54d2539062837cf87285d36c76fafd9f96cacf468390d4104ced",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "agents/_template/workflows/README.md",
+    "old_sha256": "23c656fc7f35672acb74f4734e9672114b07a3806f2e3eb821b8c67da645ef2c",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "agents/knowledge_helper/data/handbook.md",
+    "old_sha256": "06833f61ca0611e4ab658618d46fc07c9a57e52400d9173719569c7c3092dc62",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "agents/knowledge_helper/instructions.md",
+    "old_sha256": "329c71c6109cf968830efbf0f4f1e93b4f420555d024240b8b419921fbbe66e4",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "agents/support_insights/instructions.md",
+    "old_sha256": "d415d9246b868f1cf9acbf5f15d706a934336b0c1b48fb19dfd57dc7fd6031ce",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  },
+  {
+    "old_path": "docs/00_学习路线与架构图.md",
+    "old_sha256": "1b683fc30b2d05ac0c796d9d812e89ebccdc77964654c8af4038eecc2ef170b4",
+    "archive": "history/legacy/docs/00_学习路线与架构图.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/架构与修改.md",
+      "docs/current/术语.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/01_逐文件教学.md",
+    "old_sha256": "c517b2ec620cba0d535c46c5865ed40f47c4e2aa35a56dcb9c63c2ac7a9eeacb",
+    "archive": "history/legacy/docs/01_逐文件教学.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/架构与修改.md",
+      "docs/current/验证与安全.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/02_手把手创建新Agent.md",
+    "old_sha256": "4089b43a4803ade34777a5034f1a55b65a59e1e28208d5f9287fc2117dc4807f",
+    "archive": "history/legacy/docs/02_手把手创建新Agent.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/开发方法.md",
+      "docs/current/架构与修改.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/03_Harness和安全.md",
+    "old_sha256": "a712e5098d3ab1c0e93afaf693be1d25c8e9215587e664977226faf4c3018aca",
+    "archive": "history/legacy/docs/03_Harness和安全.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/验证与安全.md",
+      "docs/current/术语.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/04_Eval与测试.md",
+    "old_sha256": "dd061911d41a05187673ebae92e8c811618786e47ba5cf76e4ed2a36867da8e9",
+    "archive": "history/legacy/docs/04_Eval与测试.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/验证与安全.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/05_架构升级路线.md",
+    "old_sha256": "81505eb8f42b7aed6854e6d2ea59ac38acecbeefb5b2c58e98d36ee76004cb8f",
+    "archive": "history/legacy/docs/05_架构升级路线.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/架构与修改.md",
+      "docs/current/术语.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/06_常见错误排查.md",
+    "old_sha256": "e2c6c0eb9ca39190e4936c920ccdbef54d1399ae15ceeae4a1eb7eb79ec7ea0b",
+    "archive": "history/legacy/docs/06_常见错误排查.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/使用与排错.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/ARCHITECTURE.md",
+    "old_sha256": "4a877a64d06d1a24b6b80b619c999e83e2c8c1fc1dab66790a9c5af025ed550f",
+    "archive": "history/legacy/docs/ARCHITECTURE.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/架构与修改.md",
+      "docs/current/当前工作.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/CODEX_WORKFLOW.md",
+    "old_sha256": "d4a8e4e914ca8e7b0112d4c0b87e995d09e35445e2c5f284e53850925aabe58e",
+    "archive": "history/legacy/docs/CODEX_WORKFLOW.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/使用与排错.md",
+      "docs/current/开发方法.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/DECISIONS.md",
+    "old_sha256": "c7850b3e49753aa8536e93a33be4f2a8a555f8bae0df6440ed4382653a6d1268",
+    "archive": "history/legacy/docs/DECISIONS.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/设计决定.md",
+      "docs/current/当前工作.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/EXTENSION_GUIDE.md",
+    "old_sha256": "fda86c9425ac977aa992c6aa5de714e15c0f4344b26a26c88e5e3e7eb4698dce",
+    "archive": "history/legacy/docs/EXTENSION_GUIDE.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/架构与修改.md",
+      "docs/current/设计决定.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "docs/MATT_POCOCK_WORKFLOW_REFERENCE.md",
+    "old_sha256": "dbef568579a1d48c7771ce369c2d481edc1e2a4ddb91ece61bf015feb47216dd",
+    "archive": "history/legacy/docs/MATT_POCOCK_WORKFLOW_REFERENCE.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "docs/OPEN_SOURCE_REUSE.md",
+    "old_sha256": "6f8dc430fa3091719781727166b9b92ec30241da757b8bd270404a285832c0ea",
+    "archive": "history/legacy/docs/OPEN_SOURCE_REUSE.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "docs/WORKBENCH_USAGE_PROPOSAL.md",
+    "old_sha256": "68a45eaa37fbcf555a5a38c0ef05ac4a9fe5edde66102328c3035d4746b44aa2",
+    "archive": "history/legacy/docs/WORKBENCH_USAGE_PROPOSAL.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/README.md",
+    "old_sha256": "ebca24970c7dfaf2acb5cc0ab12c66c9cb9ccdab649cdd6d276ec62778b5b144",
+    "archive": "history/legacy/features/README.md",
+    "action": "REPLACE_CURRENT_OR_ALIAS",
+    "current_owners": [
+      "docs/current/文档维护.md",
+      "docs/current/开发方法.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "features/_template/design.md",
+    "old_sha256": "cffe1dfe7d90e400979242434464db938ce1cb95d89c023eb582e85090bb4d6c",
+    "archive": "history/legacy/features/_template/design.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/_template/results.md",
+    "old_sha256": "c18e8ad9ad443d9dbfe31d84d3c6cf0b61608d9ece81121a24da74457ee3e8ff",
+    "archive": "history/legacy/features/_template/results.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/_template/spec.md",
+    "old_sha256": "49eab2ee6cb5aa396002c315d853a1db39616c48e5ca30a8724a6bdc971ecae6",
+    "archive": "history/legacy/features/_template/spec.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/example_memory_v1/spec.md",
+    "old_sha256": "5d558a80da657d20017886b4e8373101e9ffee99486236c8aa2deb749efe5251",
+    "archive": "history/legacy/features/example_memory_v1/spec.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/agent-build-and-try-plan.md",
+    "old_sha256": "bb4b849b8060d20b878ab3ca943b1d3f1a822920859605e72be4fb7daf472fff",
+    "archive": "history/legacy/features/observability_oss_audit/agent-build-and-try-plan.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/agent-development-tool-research-20261025.md",
+    "old_sha256": "4d023389ce785cf6b4f6a1ef03b244f57105d36afb97910a17f4a9b303a5640d",
+    "archive": "history/legacy/features/observability_oss_audit/agent-development-tool-research-20261025.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/产品需求.md",
+      "docs/current/开发方法.md",
+      "docs/current/当前工作.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "features/observability_oss_audit/alternatives-comparison.md",
+    "old_sha256": "f69237c2a0f1968d0bc706e8391902b7f8659dcac9cc756cf954a9f97584aa8e",
+    "archive": "history/legacy/features/observability_oss_audit/alternatives-comparison.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/audit.md",
+    "old_sha256": "16d7939f775aa3b411ce3159dc4ea990e5217611bc821a25b36ce438891c2916",
+    "archive": "history/legacy/features/observability_oss_audit/audit.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/build-workbench-design-proposal.md",
+    "old_sha256": "414c30a9b69f2b723fae4aa349c986ea8e871630be9ed96d62c4a5707fcf0c7b",
+    "archive": "history/legacy/features/observability_oss_audit/build-workbench-design-proposal.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/build-workbench-gap-review.md",
+    "old_sha256": "74b6cad7c15328032faa738c0ca0d42f1b072b0f33da12d9ae5c2022d7073cb7",
+    "archive": "history/legacy/features/observability_oss_audit/build-workbench-gap-review.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/capability-landing-audit-20261026.md",
+    "old_sha256": "83497209305cc1a6af475b35d6a14d6afc82f6366cee9e2051513da24bc33e7f",
+    "archive": "history/legacy/features/observability_oss_audit/capability-landing-audit-20261026.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/当前工作.md",
+      "docs/current/架构与修改.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "features/observability_oss_audit/decision-retrospective.md",
+    "old_sha256": "06b2ccefc86e4a3b5d6bb8d5651962e5d03883ea21e039c0b2642b72765cd3df",
+    "archive": "history/legacy/features/observability_oss_audit/decision-retrospective.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/design.md",
+    "old_sha256": "7f48e39a473e8d3c0074355d7ff061d5a9db41e1b32d9ff2678d4ca88c93548b",
+    "archive": "history/legacy/features/observability_oss_audit/design.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/development-standard-proposal-20261026.md",
+    "old_sha256": "5fb21e6025438a1748476021ccd6ae7a4d1f50be13c3d7d5aec7f05e817d2010",
+    "archive": "history/legacy/features/observability_oss_audit/development-standard-proposal-20261026.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/当前工作.md",
+      "docs/current/第1步验收.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "features/observability_oss_audit/development-user-journey-20261026.md",
+    "old_sha256": "5856a1a895ca8b2bfdb82fe55cee34c4a7a9757f92619ccc852e81fcafbe53e7",
+    "archive": "history/legacy/features/observability_oss_audit/development-user-journey-20261026.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/产品需求.md",
+      "docs/current/开发方法.md",
+      "docs/current/架构与修改.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "features/observability_oss_audit/feasibility-plan.md",
+    "old_sha256": "2ad0c36d687dbafb3c923b6701de4ca7cc29262bd9e2c3cb3c8769ca441d8a20",
+    "archive": "history/legacy/features/observability_oss_audit/feasibility-plan.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/generation-standard-draft.md",
+    "old_sha256": "d8a5035a6068e726f4877c7a5bb4dafe146435681a9ac8f8608d1dbd3720069d",
+    "archive": "history/legacy/features/observability_oss_audit/generation-standard-draft.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/reference-stack-verification-plan.md",
+    "old_sha256": "adb252e09ff53d7a1327ce01a438f567003f0ac77be5af6b03d0271e73ee2b2d",
+    "archive": "history/legacy/features/observability_oss_audit/reference-stack-verification-plan.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/results.md",
+    "old_sha256": "d62e931e38218c6d0204c0a5f1c676eacee0d81e105ba50226442255650c3032",
+    "archive": "history/legacy/features/observability_oss_audit/results.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/当前工作.md",
+      "docs/current/产品需求.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "features/observability_oss_audit/single-model-execution-plan.md",
+    "old_sha256": "83e1dbbdf91a1d9f66b51e991ea08befdf18ee5ea2488188536efc975c0a15f2",
+    "archive": "history/legacy/features/observability_oss_audit/single-model-execution-plan.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/single-model-loop-acceptance.md",
+    "old_sha256": "a577532bec108433f40971ca98d45ae2710f5b78708bd12c5ce0f8615382a5e9",
+    "archive": "history/legacy/features/observability_oss_audit/single-model-loop-acceptance.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/spec-history-2026-10-24.md",
+    "old_sha256": "822e8f45600ef17bf193382f093aaa4aca90dc59a0acb61b40e5b34b236b4042",
+    "archive": "history/legacy/features/observability_oss_audit/spec-history-2026-10-24.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/spec.md",
+    "old_sha256": "e4f83490e5830ad0179baecab1fd860b887a13e48bdb60f844d2b3fa7ecdfd64",
+    "archive": "history/legacy/features/observability_oss_audit/spec.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/standardization-tickets-draft.md",
+    "old_sha256": "eb5d6f759acefc96ab3b9d2d4543e631ca59460c947f7e2ca3e64068b7fe7ee9",
+    "archive": "history/legacy/features/observability_oss_audit/standardization-tickets-draft.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/step-score-fix-plan.md",
+    "old_sha256": "ef2728d95c3c3c6bb9639ec86d0097169defb096689addd01508b6dfc43fe6ea",
+    "archive": "history/legacy/features/observability_oss_audit/step-score-fix-plan.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/step1-agent-build-spec-20261026.md",
+    "old_sha256": "c00f5faefc747ab0618fc604fe5d9d4532a96e11f79f0065e34b1662b3473360",
+    "archive": "history/legacy/features/observability_oss_audit/step1-agent-build-spec-20261026.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [
+      "docs/current/第1步验收.md",
+      "docs/current/当前工作.md",
+      "docs/current/开发方法.md"
+    ],
+    "reason": "有效独特信息整合到对应现行所有者；重复状态归并，易查实现改为代码导航，过程/旧候选保留历史原件"
+  },
+  {
+    "old_path": "features/observability_oss_audit/tdd-boundaries.md",
+    "old_sha256": "d094613080af521e97ab25f3ada4fcd2bed868f002d3ff61c761a7d5db34836c",
+    "archive": "history/legacy/features/observability_oss_audit/tdd-boundaries.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/ticket-breakdown-draft.md",
+    "old_sha256": "529306249436285efd6b8bbf81faf0c829e42867d61e3efc8ffe721171e195cb",
+    "archive": "history/legacy/features/observability_oss_audit/ticket-breakdown-draft.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "features/observability_oss_audit/ticket1-delivery.md",
+    "old_sha256": "105704e09e4099b6ce9d88c25c4a2ecb043f03a005851d5d89ebc7bb31a4d7b7",
+    "archive": "history/legacy/features/observability_oss_audit/ticket1-delivery.md",
+    "action": "MOVE_TO_HISTORY",
+    "current_owners": [],
+    "reason": "旧研究、实验、示例或被取代规格；当前要求由已确认产品基线/分期拥有；原件保留，不把候选当批准"
+  },
+  {
+    "old_path": "foundation/base_instructions.md",
+    "old_sha256": "38f2728cbc9579f10d3fd594eddeb38267b93c56578ecc45d1b5cd06e5b2d394",
+    "archive": null,
+    "action": "KEEP_NATIVE",
+    "current_owners": [
+      "CODEX_START_HERE.md#原生资产与专用入口"
+    ],
+    "reason": "有明确运行/生成/工程约束或专用验证消费者，保持原格式，不建立正文副本"
+  }
+]

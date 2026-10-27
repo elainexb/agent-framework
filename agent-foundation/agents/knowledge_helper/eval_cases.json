@@ -1,0 +1,8 @@
+[
+  {
+    "id": "severity_policy",
+    "input": "What is the handbook's P0 escalation policy? Include a source.",
+    "expected_tools": ["search_knowledge"],
+    "answer_contains_any": ["P0", "outage"]
+  }
+]

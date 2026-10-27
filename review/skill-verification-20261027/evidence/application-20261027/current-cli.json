@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-27",
+  "scope": "actual static CLI checks, no model, business tool or browser run",
+  "commands": [
+    {
+      "command": [
+        ".venv-catalog/bin/python",
+        "-B",
+        "-m",
+        "foundation.cli",
+        "--help"
+      ],
+      "exit_code": 0,
+      "stdout": "usage: agentkit [-h]\n                {list,doctor,inspect,scaffold,seed,demo,run,chat,eval} ...\n\nReusable modular Agent starter kit\n\npositional arguments:\n  {list,doctor,inspect,scaffold,seed,demo,run,chat,eval}\n    list                List available agents\n    doctor              Check local Python dependencies and an agent spec\n    inspect             Inspect config/source status without importing tools\n                        or connecting models\n    scaffold            Generate a new agent package\n    seed                Create synthetic support ticket data\n    demo                Offline deterministic business-logic demonstration\n    run                 Run a real LLM-backed agent (requires model)\n    chat                Run a real LLM-backed agent (requires model)\n    eval                Run live LLM eval; NEVER auto-approve writes\n\noptions:\n  -h, --help            show this help message and exit\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        ".venv-catalog/bin/python",
+        "-B",
+        "-m",
+        "foundation.cli",
+        "inspect",
+        "knowledge_helper"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"name\": \"knowledge_helper\",\n  \"description\": \"Answer questions from local Markdown reference material with citations.\",\n  \"source_version\": \"2b5bcecd0ebd19670d1f808449c8bdab0668963e3f9dd18d87fbbc43be670af3\",\n  \"configuration\": {\n    \"status\": \"PASS\",\n    \"detail\": \"已通过与 load_spec 共用的配置检查\"\n  },\n  \"tools\": {\n    \"status\": \"PASS\",\n    \"detail\": \"工具源码可解析、注册函数存在；未导入、未执行，Schema/权限运行效果未验证\"\n  },\n  \"build\": {\n    \"status\": \"UNKNOWN\",\n    \"detail\": \"需求、业务能力与质量资源契约需按 build-agent 流程审查\"\n  },\n  \"model\": {\n    \"status\": \"UNKNOWN\",\n    \"provider\": \"ollama\",\n    \"name\": \"qwen3:4b\",\n    \"detail\": \"未连接模型；权重版本、响应及工具调用尚未验证\"\n  },\n  \"can_run\": false,\n  \"runtime\": {\n    \"status\": \"FAIL\",\n    \"detail\": \"第1票仅提供配置入口；网页试跑属于后续任务\"\n  }\n}\n",
+      "stderr": "",
+      "report": {
+        "name": "knowledge_helper",
+        "description": "Answer questions from local Markdown reference material with citations.",
+        "source_version": "2b5bcecd0ebd19670d1f808449c8bdab0668963e3f9dd18d87fbbc43be670af3",
+        "configuration": {
+          "status": "PASS",
+          "detail": "已通过与 load_spec 共用的配置检查"
+        },
+        "tools": {
+          "status": "PASS",
+          "detail": "工具源码可解析、注册函数存在；未导入、未执行，Schema/权限运行效果未验证"
+        },
+        "build": {
+          "status": "UNKNOWN",
+          "detail": "需求、业务能力与质量资源契约需按 build-agent 流程审查"
+        },
+        "model": {
+          "status": "UNKNOWN",
+          "provider": "ollama",
+          "name": "qwen3:4b",
+          "detail": "未连接模型；权重版本、响应及工具调用尚未验证"
+        },
+        "can_run": false,
+        "runtime": {
+          "status": "FAIL",
+          "detail": "第1票仅提供配置入口；网页试跑属于后续任务"
+        }
+      }
+    },
+    {
+      "command": [
+        ".venv-catalog/bin/python",
+        "-B",
+        "-m",
+        "foundation.cli",
+        "inspect",
+        "support_insights"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"name\": \"support_insights\",\n  \"description\": \"Analyze support tickets with deterministic metrics and create local Jira drafts.\",\n  \"source_version\": \"3ed6ced2232c6ccfcaf20b2026c04125209b41568ab926c332848dfc8d6a2d28\",\n  \"configuration\": {\n    \"status\": \"PASS\",\n    \"detail\": \"已通过与 load_spec 共用的配置检查\"\n  },\n  \"tools\": {\n    \"status\": \"PASS\",\n    \"detail\": \"工具源码可解析、注册函数存在；未导入、未执行，Schema/权限运行效果未验证\"\n  },\n  \"build\": {\n    \"status\": \"UNKNOWN\",\n    \"detail\": \"需求、业务能力与质量资源契约需按 build-agent 流程审查\"\n  },\n  \"model\": {\n    \"status\": \"UNKNOWN\",\n    \"provider\": \"ollama\",\n    \"name\": \"qwen3:4b\",\n    \"detail\": \"未连接模型；权重版本、响应及工具调用尚未验证\"\n  },\n  \"can_run\": false,\n  \"runtime\": {\n    \"status\": \"FAIL\",\n    \"detail\": \"第1票仅提供配置入口；网页试跑属于后续任务\"\n  }\n}\n",
+      "stderr": "",
+      "report": {
+        "name": "support_insights",
+        "description": "Analyze support tickets with deterministic metrics and create local Jira drafts.",
+        "source_version": "3ed6ced2232c6ccfcaf20b2026c04125209b41568ab926c332848dfc8d6a2d28",
+        "configuration": {
+          "status": "PASS",
+          "detail": "已通过与 load_spec 共用的配置检查"
+        },
+        "tools": {
+          "status": "PASS",
+          "detail": "工具源码可解析、注册函数存在；未导入、未执行，Schema/权限运行效果未验证"
+        },
+        "build": {
+          "status": "UNKNOWN",
+          "detail": "需求、业务能力与质量资源契约需按 build-agent 流程审查"
+        },
+        "model": {
+          "status": "UNKNOWN",
+          "provider": "ollama",
+          "name": "qwen3:4b",
+          "detail": "未连接模型；权重版本、响应及工具调用尚未验证"
+        },
+        "can_run": false,
+        "runtime": {
+          "status": "FAIL",
+          "detail": "第1票仅提供配置入口；网页试跑属于后续任务"
+        }
+      }
+    }
+  ]
+}

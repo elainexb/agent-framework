@@ -1,0 +1,153 @@
+{
+  "execution": "PROJECT-DOC-APPLICATION-20261027-C1",
+  "role": "Authoritative current result of this bounded real-project document application; fixed historical inputs/results remain unchanged.",
+  "requested_outcome": "Apply isolated document-governance method to the actual project, unify indexed current information and preserve provenance; no global installation or app implementation.",
+  "adoption": {
+    "project_entry": "APPLIED",
+    "user_authority": "Explicit latest selection 接入实际项目入口",
+    "global_adoption": "NOT_AUTHORIZED",
+    "skill_candidate": "Isolated candidate explicitly read/applied; not installed"
+  },
+  "entry_points": {
+    "workspace": "CODEX_START_HERE.md",
+    "project": "agent-foundation/CODEX_START_HERE.md",
+    "current_owners": "agent-foundation/docs/current/",
+    "history": "agent-foundation/history/README.md",
+    "governance_task": "review/skill-verification-20261027/README.md"
+  },
+  "layout": {
+    "original_working_md": 113,
+    "current_topic_owners": 10,
+    "live_project_instruction": 1,
+    "live_project_index": 1,
+    "updated_project_skill_wrappers": 3,
+    "thin_compatibility_pointers": 15,
+    "unchanged_native_md": 12,
+    "raw_historical_baselines": 101,
+    "history_index": 1,
+    "retired_original_paths": 81,
+    "unchanged_existing_md_evidence": 187,
+    "note": "Roles, not a claim that all project Markdown was reduced to ten files. Third-party environments and immutable evidence are outside current-topic consolidation."
+  },
+  "checks": [
+    {
+      "id": "apply",
+      "status": "PASS",
+      "evidence": "apply-result.json",
+      "scope": "132 planned target writes and 81 retired original paths; actual plan target hashes independently checked after readbacks."
+    },
+    {
+      "id": "preservation",
+      "status": "PASS",
+      "evidence": [
+        "migration-map.json",
+        "live-check.json",
+        "independent-review.txt"
+      ],
+      "scope": "101 archived originals retain exact bytes; all 22 product capability and 16 object rows and T1–T5 preserved; semantic source review found no concrete loss in this candidate. Hashes alone do not prove meaning."
+    },
+    {
+      "id": "navigation",
+      "status": "PASS",
+      "evidence": "live-check.json",
+      "scope": "228 current/alias/history-navigation local references, current topic index and 3 changed project Skill packages; frozen historical body links excluded."
+    },
+    {
+      "id": "non_document_sources",
+      "status": "PASS",
+      "evidence": "live-check.json",
+      "scope": "Unrelated baseline source/config/data/evidence identities unchanged within the recorded 1135-file manifest; no application runtime execution."
+    },
+    {
+      "id": "repeat_same_plan",
+      "status": "PASS",
+      "evidence": "repeat-result.json",
+      "scope": "All 132 targets unchanged and all 81 retired paths absent on second completed-plan invocation; no general interruption-recovery proof."
+    },
+    {
+      "id": "independent_document_review",
+      "status": "PASS",
+      "evidence": "independent-review.txt",
+      "scope": "Serial fresh read-only document migration review, fixed C1; no concrete blocker found. Not runnable-code Standards/Spec review or user acceptance."
+    },
+    {
+      "id": "candidate.explicit_read",
+      "status": "PASS",
+      "evidence": [
+        "agent-foundation/evidence/session-doc-policy-20261027-run2.json",
+        "agent-foundation/evidence/session-doc-resume-20261027-run2.json"
+      ],
+      "scope": "Both sessions visibly read the explicitly supplied candidate before drafting/responding. This does not test implicit candidate discovery."
+    },
+    {
+      "id": "T01.select",
+      "status": "PASS",
+      "scope": "Observed writing-for-agents body read before drafting, not just a claim of use. Candidate document-governance was explicitly supplied."
+    },
+    {
+      "id": "T01.owner",
+      "status": "FAIL",
+      "scope": "Final proposal clauses 3–4 independently restate ownership/new-document criteria/structured updates/retirement/check requirements already owned by docs/current/文档维护.md; clauses 1–2 already provide the necessary read triggers. Same original prompt and owner criterion retained. Proposal was not adopted."
+    },
+    {
+      "id": "T01.scope",
+      "status": "PASS",
+      "scope": "Visible commands read-only; no proposed clauses written/adopted; live fixed target identities remained unchanged."
+    },
+    {
+      "id": "actual_project_resume",
+      "status": "PASS",
+      "scope": "Fresh session read current index/task/acceptance/method/decision entries, carried build-before-run, BUILD-1/2 pending review, T1–T5 NOT_RUN/UNKNOWN, model pause, no new implementation authority; no visible history/memory/report reads. One explicitly guided case only."
+    },
+    {
+      "id": "native_model_identity",
+      "status": "UNKNOWN",
+      "scope": "Driver did not record returned runtime model identity; no model override requested."
+    },
+    {
+      "id": "native_implicit_discovery_and_full_v2",
+      "status": "NOT_RUN",
+      "scope": "This run contains two explicitly guided serial readbacks, not complete v2 regression, D01/D02 discovery, D03 turn-change, a repeated stability estimate or a held-out benchmark."
+    },
+    {
+      "id": "universal_enforcement",
+      "status": "NOT_IMPLEMENTED",
+      "scope": "No actual unified acceptance gate installed; old trial hooks cover only their historical trial corpus. Project AGENTS and project Skill pointers route cooperative reads; they cannot enforce all writes or prevent every future stale/duplicate assertion."
+    },
+    {
+      "id": "application_T1_T5",
+      "status": "NOT_RUN",
+      "scope": "Application build/GUI/recovery cases remain unexecuted. Static CLI inspection is separately saved and does not imply runtime/model success."
+    },
+    {
+      "id": "user_quality_acceptance",
+      "status": "PENDING",
+      "scope": "User authorized application to actual project entry; quality acceptance and cross-project/global adoption have not occurred."
+    }
+  ],
+  "readback_assessment": {
+    "method": "Current assistant examines public tool events and final output against pre-existing T01 criteria and actual project sources; explicit self-review, not independent semantic scoring. Two fresh native cases, one attempt each, serial. Tested sessions did not receive hidden scoring criteria. Read-only commands provide bounded observational evidence only.",
+    "policy_case": "doc-policy-20261027",
+    "resume_case": "doc-resume-20261027",
+    "historical_failures": "Prior T01.owner failure and earlier trial/contract failures remain preserved; current failure is an additional actual observation, not overwritten as PASS."
+  },
+  "limitations": [
+    "Current document necessity/preservation/ownership were reviewed against actual sources; there is no proof of universal semantic uniqueness or perpetual freshness. Recheck affected owners when real sources/requirements change.",
+    "Archived raw originals retain original relative citation bytes. Use history migration mapping to resolve old locations; historical body links were not globally rewritten.",
+    "Fixed-plan migration is not multi-file atomic; no arbitrary partial-crash recovery experiment was performed. No migration temporary files remain after this run.",
+    "The model-produced duplicate AGENTS proposal was not adopted. Do not represent candidate Skill stability as achieved or deploy a global mechanism based on this run."
+  ],
+  "next_use": "User inspect the live project index and topic owners. Any follow-up Skill correction should address the observed owner-output failure through a bounded comparison and acceptance responsibility; do not add another duplicate policy or silently retry until passing.",
+  "evidence_sha256": {
+    "review/skill-verification-20261027/evidence/application-20261027/before-manifest.json": "2432c2c5b8e9113cda621d07768682f85fb57e56fb59e5a4bdd07976701682ba",
+    "review/skill-verification-20261027/evidence/application-20261027/migration-map.json": "2393eb1e06f517d19787ec6d6236cf35ffe944286f776440b44bfbd83cf2bd33",
+    "review/skill-verification-20261027/evidence/application-20261027/review-manifest.json": "165c09cd1ed6faef91d34b07c401cf19f39c6e0c72e963c52262f5860788c3e6",
+    "review/skill-verification-20261027/evidence/application-20261027/apply-result.json": "ae285ab55cd1660d6217247d733646add8265e92591ad9e05f396948723e6855",
+    "review/skill-verification-20261027/evidence/application-20261027/repeat-result.json": "0371c174a39a62fbf7fea9d49b164929443dbe0f6afafd304353972b1278dfe9",
+    "review/skill-verification-20261027/evidence/application-20261027/live-check.json": "0ebd8396efa747c6206fb483d180d27f4146cbb3a4c2d1a4b61a3192e4b1b96e",
+    "review/skill-verification-20261027/evidence/application-20261027/independent-review.txt": "200d3e14d88e2b8ddf89d6ef481a07fb6f47b6ce3f8b9c2233ed45bef5142315",
+    "review/skill-verification-20261027/evidence/application-20261027/readback-config.json": "04f578a41d728b53dc683829be070d78c3883b31b78153d034c499b88b72aa38",
+    "agent-foundation/evidence/session-doc-policy-20261027-run2.json": "e3a0d77e4ec10c0fd9da13d6cb7c741603a35d2b5ff86a96b04686a182bdf1a0",
+    "agent-foundation/evidence/session-doc-resume-20261027-run2.json": "4c6ca9857236e63b8a6633bb570310da3282458e5ce511ced1b7cbdfc670d1ad"
+  }
+}

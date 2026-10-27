@@ -1,0 +1,17 @@
+name: knowledge_helper
+description: Answer questions from local Markdown reference material with citations.
+model:
+  provider: ollama
+  name: qwen3:4b
+  temperature: 0
+tools:
+  - agents.knowledge_helper.tools:search_knowledge
+  - agents.knowledge_helper.tools:read_section
+runtime:
+  max_model_calls: 6
+  max_tool_calls: 10
+  retry:
+    attempts: 0
+    tools: []
+approval:
+  tools: []

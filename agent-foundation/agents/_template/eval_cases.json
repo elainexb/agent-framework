@@ -1,0 +1,8 @@
+[
+  {
+    "id": "replace_me",
+    "input": "Look up the demo object",
+    "expected_tools": ["sample_lookup"],
+    "answer_contains_any": ["TODO", "Replace"]
+  }
+]

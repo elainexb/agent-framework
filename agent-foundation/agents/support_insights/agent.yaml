@@ -1,0 +1,20 @@
+name: support_insights
+description: Analyze support tickets with deterministic metrics and create local Jira drafts.
+model:
+  provider: ollama
+  name: qwen3:4b
+  temperature: 0
+# Only these explicitly registered tools can be called by the model.
+tools:
+  - agents.support_insights.tools:get_ticket_stats
+  - agents.support_insights.tools:get_ticket_examples
+  - agents.support_insights.tools:create_jira_draft
+runtime:
+  max_model_calls: 8
+  max_tool_calls: 12
+  retry:
+    attempts: 0
+    tools: []
+approval:
+  # Approval before a local draft is written. Real actions must be gated as well.
+  tools: [create_jira_draft]

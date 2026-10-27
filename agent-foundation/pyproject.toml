@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reusable-agent-foundation"
+version = "0.1.0"
+description = "A teachable, reusable, modular LangChain agent starter kit"
+requires-python = ">=3.11"
+dependencies = [
+  "PyYAML>=6.0,<7",
+  "python-dotenv>=1.0,<2",
+  "langchain>=1.3,<2",
+  "langgraph>=1.0,<2",
+  "langchain-ollama>=1.0,<2",
+]
+
+[project.optional-dependencies]
+openai = ["langchain-openai>=1.0,<2"]
+workbench = ["gradio==6.30.0"]
+
+[project.scripts]
+agentkit = "foundation.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["foundation*", "agents*"]

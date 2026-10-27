@@ -1,0 +1,16 @@
+name: __AGENT_NAME__
+description: A new business agent - update this description.
+model:
+  provider: ollama
+  name: qwen3:4b
+  temperature: 0
+tools:
+  - agents.__AGENT_NAME__.tools:sample_lookup
+runtime:
+  max_model_calls: 8
+  max_tool_calls: 12
+  retry:
+    attempts: 0
+    tools: []
+approval:
+  tools: []

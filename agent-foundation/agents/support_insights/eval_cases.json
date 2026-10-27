@@ -1,0 +1,8 @@
+[
+  {
+    "id": "identify_top_category",
+    "input": "分析最近7天的客服投诉，按数量找出最多的类别，并给出实际工单ID作为证据。不需要创建草稿。",
+    "expected_tools": ["get_ticket_stats", "get_ticket_examples"],
+    "answer_contains_any": ["Login", "登录"]
+  }
+]
